@@ -1,5 +1,8 @@
 _repo: Alcatraz-of-the-Starways_62377
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62377-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hasse, Henry
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '51852'
     url: http://www.gutenberg.org/2009/agents/51852
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62377#Alcatraz-of-the-Starways
 gutenberg_issued: '2020-06-12'
 gutenberg_type: Text
 identifiers:
